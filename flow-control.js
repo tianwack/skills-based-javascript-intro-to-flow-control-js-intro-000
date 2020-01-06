@@ -8,9 +8,7 @@ function basicTeenager(age) {
 function teenager(age) {
   if (age === 13)
     return "You are a teenager!"
-  else (age === 12)
-    return "You are not a teenager"
-  else (age === 29)
+  else  (age === 12 || age === 29)
     return "You are not a teenager"
 }
 
