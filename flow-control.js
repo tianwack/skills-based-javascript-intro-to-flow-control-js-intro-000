@@ -36,5 +36,5 @@ function switchAge(age) {
       break;
     case 7:
         return "You have an age";
-        break;
+        break;}
 }
